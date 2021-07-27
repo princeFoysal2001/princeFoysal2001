@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+four
+=======
+This is Prince
+>>>>>>> newBranch1
